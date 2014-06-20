@@ -1,12 +1,11 @@
 PrintPretty
 ===========
 
-This theme is intended to be used for PDF for print. It emphasizes good readability with a clean font and sizing.
+This theme is intended to be used for PDF for print. It emphasizes good readability with a clean font and sizing. The basis was Githubs-Readme 
 
 ## Example
 
-
-
+![Example of the created PDF](https://raw.githubusercontent.com/a1ee9b/PrintPretty/master/Example.png)
 
 ## Installation
 
